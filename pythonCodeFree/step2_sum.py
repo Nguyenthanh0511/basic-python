@@ -1,5 +1,0 @@
-print("Nhap so thu nhat :")
-num1 = int(input())
-print("Nhap so thu hai : ")
-num2 = int(input())
-print("sum =",num1+num2)
